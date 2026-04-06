@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+
+I'm Isabel, a **Machine Learning & AI Engineer based in Peru**.
+
+I enjoy designing and building intelligent systems that improve accuracy, streamline workflows, and automate tasks.
+
+## Tools & Tech
+
+- **Languages:** Python, SQL
+- **ML/AI:** Scikit-learn, TensorFlow, PyTorch
+- **Data:** Pandas, NumPy
+- **Dev Tools:** Git, GitHub, Docker
+- **Cloud:** AWS, Azure
+
+- ## About Me
+
+- 🏖️ Happiest near the beach
+- 🍪 Powered by sweet treats
+- 🐶 Dogs instantly make my day better
+- 💡 I like building systems that make an impact
