@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
-
 I'm Isabel, a **Machine Learning & AI Engineer based in Peru**.
 
 I enjoy designing and building intelligent systems that improve accuracy, streamline workflows, and automate tasks.
