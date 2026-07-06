@@ -32,4 +32,3 @@ I enjoy designing and building intelligent systems that improve accuracy, stream
 - 🏖️ Happiest near the beach
 - 🍪 Powered by sweet treats
 - 🐶 Dogs instantly make my day better
-- 💡 I like building systems that make an impact
